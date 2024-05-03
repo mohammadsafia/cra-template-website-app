@@ -1,0 +1,1 @@
+## React base project with folder structure
